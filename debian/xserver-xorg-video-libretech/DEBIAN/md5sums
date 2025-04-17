@@ -1,0 +1,6 @@
+cbdb779461d7b91529b38a4f708e62ff  usr/share/X11/xorg.conf.d/10-ili9486.conf
+01d94e8ad483617f8b0ba4fa97373611  usr/share/X11/xorg.conf.d/10-meson.conf
+d4a4b4551a5415ef72e9541c8a8548aa  usr/share/X11/xorg.conf.d/10-rockchip.conf
+b2d1759743fed2a10563f976418c2402  usr/share/X11/xorg.conf.d/10-sunxi.conf
+8cefe45cec91e3fefb2548dc0e0a18b0  usr/share/X11/xorg.conf.d/11-monitor-always-on.conf
+5d6dc7baed3e5a2f62ab45880f5a1d99  usr/share/doc/xserver-xorg-video-libretech/changelog.gz

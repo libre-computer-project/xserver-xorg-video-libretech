@@ -1,0 +1,9 @@
+Package: xserver-xorg-video-libretech
+Version: 2025.04.17
+Architecture: all
+Maintainer: Da Xue <da@libre.computer>
+Installed-Size: 14
+Recommends: xserver-xorg
+Section: x11
+Priority: optional
+Description: xorg confs for Libre Computer
