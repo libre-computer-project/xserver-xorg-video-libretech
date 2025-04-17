@@ -7,4 +7,4 @@ Build-Depends: debhelper (>= 9)
 Package: xserver-xorg-video-libretech
 Architecture: all
 Recommends: xserver-xorg
-Description: xorg confs for Libre Computer
+Description: Libre Computer xorg confs
